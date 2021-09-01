@@ -9,7 +9,7 @@ Data comes form <a href="https://thespacedevs.com/llapi" target="blank">spacedev
 ## TODO
 - [ ] Add main pages
   - [x] Add agencies page
-  - [ ] Add astronauts page
+  - [x] Add astronauts page
   - [ ] Add events page
   - [ ] Add launches page
   - [ ] Add locations page
