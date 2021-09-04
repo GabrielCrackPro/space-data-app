@@ -11,7 +11,7 @@ Data comes form <a href="https://thespacedevs.com/llapi" target="blank">spacedev
   - [x] Add agencies page
   - [x] Add astronauts page
   - [x] Add events page
-  - [ ] Add launches page
+  - [x] Add launches page
   - [ ] Add locations page
   - [ ] Add ISS page
   - [ ] Add updates page
