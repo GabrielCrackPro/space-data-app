@@ -12,7 +12,7 @@ Data comes form <a href="https://thespacedevs.com/llapi" target="blank">spacedev
   - [x] Add astronauts page
   - [x] Add events page
   - [x] Add launches page
-  - [ ] Add locations page
+  - [x] Add locations page
   - [ ] Add ISS page
   - [ ] Add updates page
 - [ ] Debug 🔧
