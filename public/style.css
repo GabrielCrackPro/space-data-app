@@ -3,6 +3,11 @@
  padding: 0; 
  box-sizing: border-box; 
  }
+ *::selection{
+ background: #2D46B9;
+ color: #fff;
+ font-weight: bold;
+ }
  .space-bg{
  background: #2D46B9;
  }
