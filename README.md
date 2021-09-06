@@ -7,13 +7,14 @@ App with relevant data form space agencies,launches and more. <br>
 Data comes form <a href="https://thespacedevs.com/llapi" target="blank">spacedevs API</a>
 
 ## TODO
-- [ ] Add main pages
+- [x] Add main pages
   - [x] Add agencies page
   - [x] Add astronauts page
   - [x] Add events page
   - [x] Add launches page
   - [x] Add locations page
   - [x] Add ISS missions page
-  - [ ] Add updates page
+  - [x] Add updates page
+- [ ] Add favicon ⭐️
 - [ ] Debug 🔧
 - [ ] Deploy 🌏 
