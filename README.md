@@ -15,6 +15,5 @@ Data comes form <a href="https://thespacedevs.com/llapi" target="blank">spacedev
   - [x] Add locations page
   - [x] Add ISS missions page
   - [x] Add updates page
-- [ ] Add favicon ⭐️
-- [ ] Debug 🔧
-- [ ] Deploy 🌏 
+- [x] Add favicon ⭐️
+- [x] Deploy 🌏 
